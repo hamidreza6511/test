@@ -1,4 +1,4 @@
-X = int (input())36
+X = int (input())
 Y = int (input())
 if X > Y and X >= 0 and Y>=0 :
     print (X)
