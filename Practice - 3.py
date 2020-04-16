@@ -1,0 +1,5 @@
+X = int (input ())
+Y =int(X // 10)
+Z = int( Y + 1)
+A = int (Z * 10)
+print (A)
